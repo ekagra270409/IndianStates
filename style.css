@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(orange 0%, white 50%, green 100%);
+    text-align: center;
+}
+
+h1 {
+    font-style: oblique;
+    color: indigo;
+}
+
+h2 {
+    font-weight:lighter;
+}
+
+button {
+    background-color: chartreuse;
+}
+
+#aftermap {
+    width: 250px;
+    height: 275px;
+}
